@@ -46,11 +46,6 @@ Untuk menjalankan permainan Flappy Bird, ikuti langkah-langkah berikut:
 - Tampilkan skor dan perbarui saat pemain melewati tabung.
 - Implementasikan kondisi game over ketika pemain menabrak tabung atau mencapai bagian bawah JFrame.
 
-## Bonus: Menu Utama
-
-- Tambahkan sebuah form GUI baru untuk menu utama.
-- Sertakan sebuah tombol untuk memulai permainan.
-- Ketika tombol ditekan, tutup menu dan buka JFrame permainan.
 
 ## File
 
