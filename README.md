@@ -55,5 +55,5 @@ Untuk menjalankan permainan Flappy Bird, ikuti langkah-langkah berikut:
 - `Pipe.java`: Kelas yang mewakili tabung dalam permainan.
 - `assets/`: Direktori yang berisi aset permainan seperti gambar.
 
-##Dokumentasi
+## Dokumentasi
 ![FlappyBirdDokumentasi](https://github.com/FikryIdhamD/LP7DPBO2024C2/assets/147605722/8318cfb7-21a4-4a07-b661-ed0ba2405601)
